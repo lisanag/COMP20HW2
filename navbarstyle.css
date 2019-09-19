@@ -1,0 +1,40 @@
+#Sidenavbar a{
+		position: absolute;
+		left: -98px;
+		transition: 0.3s;
+		padding: 25px;
+		width: 120px;
+		text-decoration:none;
+		font-family: Arial, Helvetica;
+		font-size: 13.8px;
+		color: 000;
+		border-radius: 0 5px 5px 0;
+	}
+	
+	#Sidenavbar a:hover{
+	left: 0;
+	}
+	
+	#home{
+	top: 120px;
+	color: #000;
+	font-weight:bold;
+	letter-spacing: 3px;
+	background-color: #D1D7DB;
+	}
+	
+	#services{
+	top: 200px;
+	color: #000;
+	font-weight:bold;
+	letter-spacing: 2.4px;
+	background-color: #95A3AE;
+	}
+	
+	#contact{
+	top: 280px;
+	color: #000;
+	font-weight:bold;
+	letter-spacing: 2.7px;
+	background-color: #8394A1;
+	}navbar
